@@ -1,4 +1,0 @@
-services:
-  - name: icnvfront
-    buildCommand: npm run build
-    startCommand: npm run start
